@@ -12,7 +12,7 @@ System.out.println(HesapMakinesii.bolmeYap(24,0,2));
     }
     }
 }
-//chatgpt ye sor neden foreach ile cikarma ve bolme yapamıyoruz
+
 class HesapMakinesii{
     public static int topla(int...parametreler){
         int toplam=0;
